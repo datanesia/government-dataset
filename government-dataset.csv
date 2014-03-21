@@ -1,0 +1,45 @@
+No.,Name,Source,Theme,Scope,Format,Open License,URL
+1,Indonesia Data for Policy and Economic Research (INDO-DAPOER),Various,development,Subnational,CSV,Yes,http://data.worldbank.org/data-catalog/indonesia-database-for-policy-and-economic-research
+2,Statistik Ekonomi dan Keuangan Indonesia (SEKI),Bank Indonesia,economic,National,"PDF, XLS",No,http://www.bi.go.id/id/statistik/seki/terkini/moneter/Contents/Default.aspx
+3,Statistik Ekonomi dan Keuangan Daerah (SEKDA),Bank Indonesia,economic,Subnational,,No,http://www.bi.go.id/id/statistik/sekda/Default.aspx
+4,PNPM Open Data Platform,PNPM Support Facility,poverty reduction,Subnational,CSV,Yes,https://pnpm.socrata.com/
+5,Media Publikasi Peraturan Perundang-undangan dan Informasi Hukum,Kemkumham,law,National,"HTML, PDF",No,http://ditjenpp.kemenkumham.go.id/database-peraturan.html
+6,Government Budget (APBN) 1968-2012,Kemenkeu,fiscal,National,PDF,No,http://www.kemenkeu.go.id/indekskatalogdata/528
+7,Portal Keuangan DKI Jakarta - spending & revenue,DKI Jakarta,"fiscal, economic",Subnational,HTML,No,http://www.jakarta.go.id/web/apbd
+8,Biro Pusat Statistik,BPS,"statistic, various",National,"HTML, XLS, PDF",No,http://bps.go.id/index.php
+9,Indeks Kualitas Lingkungan Hidup,Kementrian Lingkungan Hidup,environment,National,,No,http://datin.menlh.go.id/home/iklh/
+10,Bappenas Datamart,Bappenas,development,National,,No,http://datamart.bappenas.go.id/
+11,Bappenas Data Dashboard,Bappenas,development,National,,No,http://beta.data.bappenas.go.id/pivot/metadata/browse
+12,Ina-Geoportal,BIG,spatial,All,,?,http://tanahair.indonesia.go.id/
+13,National Disaster Geospatial Portal,BNPB,spatial,All,,No,http://geospasial.bnpb.go.id/
+14,Data & Informasi Bencana Indonesia,BNPB,disaster management,All,,No,http://dibi.bnpb.go.id/DesInventar/dashboard.jsp?countrycode=id&continue=y&lang=ID
+15,Information and Communication Statistics,Kominfo,ICT,National,,No,http://statistik.kominfo.go.id/
+16,Sistem Informasi Pengendalian Kemiskinan Jawa Barat,Bappeda Jabar,poverty reduction,Subnational,,No,http://pusdalisbang.jabarprov.go.id/ppls2011/guestmode/daerah/1
+17,Tax Statistics,Dirjen Pajak,tax,National,,No,http://www.pajak.go.id/statistic
+18,Islamic Education MIS,Kemenag,education,National,,No,http://emispendis.kemenag.go.id/index.php?view=remts
+19,Pangkalan Data Pendidikan Tinggi,Kemdikbud,education,All,,No,http://pdpt.dikti.go.id/
+20,Data Pokok Pendidikan Dasar,Kemdikbud,education,All,,No,http://infopendataan.dikdas.kemdikbud.go.id/
+21,Data Pokok Pendidikan Menengah,Kemdikbud,education,All,,No,http://203.171.221.242/dapodikmen2013/
+22,Pemilu 2014 API,KPU,election,All,,-tbc-,https://github.com/pemiluAPI/pemilu-data
+23,The Indonesian Sub-National Growth and Governance 2001-2007,Various,development,Subnational,,Semi,http://www.ids.ac.uk/idspublication/the-indonesian-sub-national-growth-and-governance-dataset-stata-11-format
+24,Data Profil Pemuda dan Olahraga,Kemenpora,,Subnational,,No,http://www.kemenpora.go.id/pdf/PROFIL%20PEMUDA%20DAN%20OLAHRAGA%20_update_final1_revisi_14-06-2010.pdf
+25,Katalog Data Keuangan,Kemenkeu,"fiscal, economic",National,PDF,No,http://www.kemenkeu.go.id/katalogdata
+26,Data Sektor ESDM,KemESDM,energy,National,,No,http://www.esdm.go.id/statistik/data-sektor-esdm.html
+27,Permintaaan Data Industri,Kemenperin,economy,National,HTML,No,http://www.kemenperin.go.id/data-inquiry
+28,Data Komoditi Indonesia,Kemendag,trade,National,,No,http://www.kemendag.go.id/id/economic-profile
+29,Basis Data Statistik Pertanian,Kementan,agriculture,All,,No,http://aplikasi.pertanian.go.id/bdsp/index.asp
+30,Data Spasial Kementrian Kehutanan,Kemenhut,forestry,All,,No,http://appgis.dephut.go.id/appgis/download.aspx
+31,Sistem Informasi Geografis Prasarana Informasi,Kemenhub,transport,All,,No,http://gis.dephub.go.id/mapping/
+32,Data Statistik Kelautan dan Perikanan,KKP,fisheries,National,,No,http://statistik.kkp.go.id/
+33,Pusat Data dan Informasi Ketenagakerjaan,Kemenakertrans,,All,,No,http://pusdatinaker.balitfo.depnakertrans.go.id/
+34,Data Literal Infrastruktur Pekerjaan Umum,Kemen PU,infrastructure,All,,No,http://www.pu.go.id/publik/ind/produk/info_statistik/dashboard/
+35,Procurement e-catalogue,LKPP,procurement,All,,No,http://e-katalog.lkpp.go.id/e-catalogue/
+36,Sensus Penduduk 2010,BPS,census,All,,No,http://sp2010.bps.go.id/index.php/site/index
+37,Buletin Ekonomi Bank Indonesia (SDDS Bank Indonesia),Bank Indonesia,economy,National,,No,http://www.bi.go.id/sdds/
+38,Database Narapidana dan Tahanan,Kemkumham,law and order,All,"HTML, XLS",No,http://smslap.ditjenpas.go.id/
+39,Data soal Pemberdayaan Perempuan dan Perlindungan Anak,MenegPP,social,All,PDF,?,http://www.menegpp.go.id/v2/index.php/datadaninformasi
+40,Indikator Kesehatan di Indonesia,Kemkes,health,All,HTML,?,http://www.bankdata.depkes.go.id
+41,Sistem Informasi Kementerian Sosial,Kemsos,social,All,,No,http://siks.kemsos.go.id/
+42,Sistem Informasi Pembangunan Daerah,Kemendagri,anything,All,"KML, HTML",No,http://sipd.bangda.kemendagri.go.id/cisipd/
+43,Data Keuangan Daerah,Kemenkeu,fiscal,Subnational,XLS,No,http://www.djpk.depkeu.go.id/data-series/data-keuangan-daerah
+44,Simpadu PNPM,Bappenas,social,All,"XLS, HTML",No,http://simpadu-pnpm.bappenas.go.id/Desinventar/dashboard
