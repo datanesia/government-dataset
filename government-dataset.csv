@@ -20,7 +20,7 @@ No.,Name,Source,Theme,Scope,Format,Open License,URL
 19,Pangkalan Data Pendidikan Tinggi,Kemdikbud,education,All,,No,http://pdpt.dikti.go.id/
 20,Data Pokok Pendidikan Dasar,Kemdikbud,education,All,,No,http://infopendataan.dikdas.kemdikbud.go.id/
 21,Data Pokok Pendidikan Menengah,Kemdikbud,education,All,,No,http://203.171.221.242/dapodikmen2013/
-22,Pemilu 2014 API,KPU,election,All,,-tbc-,https://github.com/pemiluAPI/pemilu-data
+22,Pemilihan Umum 2014,KPU,election,All,,-tbc-,http://pemilu2014.kpu.go.id
 23,The Indonesian Sub-National Growth and Governance 2001-2007,Various,development,Subnational,,Semi,http://www.ids.ac.uk/idspublication/the-indonesian-sub-national-growth-and-governance-dataset-stata-11-format
 24,Data Profil Pemuda dan Olahraga,Kemenpora,,Subnational,,No,http://www.kemenpora.go.id/pdf/PROFIL%20PEMUDA%20DAN%20OLAHRAGA%20_update_final1_revisi_14-06-2010.pdf
 25,Katalog Data Keuangan,Kemenkeu,"fiscal, economic",National,PDF,No,http://www.kemenkeu.go.id/katalogdata
